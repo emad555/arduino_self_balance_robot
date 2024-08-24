@@ -1,5 +1,7 @@
 # Self-Balancing Robot
 
+![Self-Balancing Robot Demo](robot_demo.gif)
+
 ## Project Overview
 
 This project is a self-balancing robot that uses an Arduino Nano, an L298 motor driver, and an IMU sensor. The robot maintains its balance by continuously adjusting the motor speeds based on the tilt angle, which is measured by the IMU sensor. A PID controller is implemented to ensure stable and responsive control.
